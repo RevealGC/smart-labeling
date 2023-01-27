@@ -1,6 +1,6 @@
 {
-  "message": "fix: DEV-3745: unselecting all itens in history instead just the selected item (#1042)\n\nCo-authored-by: Nick Skriabin <767890+nicholasrq@users.noreply.github.com>",
-  "commit": "88f9ce5555fc87099a6db43a3c64fb9d810159cc",
+  "message": "fix: LSDV-1140: Select region when regions is dragged",
+  "commit": "ef5d20754a14cd3d2a90a36c4aea34534062c3d7",
   "branch": "master",
-  "date": "2022-11-30T13:13:50Z"
+  "date": "2023/01/26 10:29:18"
 }
